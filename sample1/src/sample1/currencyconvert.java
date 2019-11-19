@@ -10,6 +10,8 @@ import postilion.realtime.sdk.node.AIntegrationDriverEnvironment;
 import postilion.realtime.sdk.node.Action;
 import postilion.realtime.sdk.util.TraceFile;
 
+//Test commit for GIt
+
 public class currencyconvert extends AIntegrationDriver{
 	
 	/*public void init(AIntegrationDriverEnvironment node_application, String integration_driver_parameters, String custom_class_parameters)
